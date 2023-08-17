@@ -1,0 +1,21 @@
+/* App.css */
+h1 {
+    /* CSS for the h1 element */
+    text-align: center; /* Center the text */
+    font-size: 48px; /* Set the font size */
+  }
+  
+  button {
+    /* CSS for the button element */
+    background-color: #7f62c3; /* Green background color for the button */
+    color: white; /* White text color for the button */
+    padding: 10px 20px; /* Padding for the button */
+    font-size: 16px; /* Font size for the button text */
+    border: 10px; /* No border for the button */
+    border-radius: 10px; /* Rounded corners for the button */
+    border-color: rgb(0, 0, 0);
+    cursor: pointer; /* Show hand cursor on hover */
+    display: block; /* Display the button as a block element (to center it) */
+    margin: 0 auto; /* Center the button horizontally */
+  }
+  

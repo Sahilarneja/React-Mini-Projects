@@ -1,0 +1,18 @@
+
+body {
+  background: black;
+  margin: 0; /* Remove default margin to extend the background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #17D4FE;
+  font-size: 60px;
+  font-family: "Orbitron", Arial, sans-serif;
+  letter-spacing: 7px;
+  margin: 0; /* Remove default margin to center the clock */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Adding a text shadow for depth */
+}
